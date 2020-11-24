@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>token</name>
+        <rest_message_function display_value="Send to Scan">67a2bfb0dbd06810b496c16c1396194e</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-11-03 20:12:13</sys_created_on>
+        <sys_id>5257b405db946810b496c16c13961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>token</sys_name>
+        <sys_package display_value="AS Code Client" source="x_alpa2_hs_client">41653bebdb0c6410b496c16c13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AS Code Client">41653bebdb0c6410b496c16c13961982</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_5257b405db946810b496c16c13961966</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-11-03 20:12:13</sys_updated_on>
+        <type>string</type>
+        <value/>
+    </sys_rest_message_fn_parameters>
+</record_update>

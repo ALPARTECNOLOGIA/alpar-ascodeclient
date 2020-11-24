@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>AS Code Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-11-03 20:14:19</sys_created_on>
+        <sys_id>f8873045db946810b496c16c1396199a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>AS Code Properties</sys_name>
+        <sys_package display_value="AS Code Client" source="x_alpa2_hs_client">41653bebdb0c6410b496c16c13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AS Code Client">41653bebdb0c6410b496c16c13961982</sys_scope>
+        <sys_update_name>sys_properties_category_f8873045db946810b496c16c1396199a</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-11-06 16:23:31</sys_updated_on>
+        <title><![CDATA[<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://alparbrdemo1.service-now.com/352862f9db1ce810b496c16c13961962.iix" alt="Logo AlparService" width="240" height="51" /></p>
+<p style="text-align: center;">Administrative property page for the Health Scan solution provided by <a title="AlparService" href="https://alparservice.com.br/" target="_blank" rel="noopener noreferrer nofollow">AlparService</a></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=f8873045db946810b496c16c1396199a"/>
+</record_update>

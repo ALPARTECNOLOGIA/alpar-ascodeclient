@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="AS Code Properties">f8873045db946810b496c16c1396199a</category>
+        <order>1100</order>
+        <property display_value="x_alpa2_hs_client.customer.token" name="x_alpa2_hs_client.customer.token">1638b445db946810b496c16c13961913</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-11-03 20:16:31</sys_created_on>
+        <sys_id>e158b445db946810b496c16c13961966</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_alpa2_hs_client.customer.token.AS Validator Properties</sys_name>
+        <sys_package display_value="AS Code Client" source="x_alpa2_hs_client">41653bebdb0c6410b496c16c13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AS Code Client">41653bebdb0c6410b496c16c13961982</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_e158b445db946810b496c16c13961966</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-11-03 20:17:09</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

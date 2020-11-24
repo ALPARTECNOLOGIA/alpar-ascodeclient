@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="AS Validator Client">92b537ebdb0c6410b496c16c139619a1</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sys_user</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-10-30 18:13:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9eb5b32fdb0c6410b496c16c1396191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AS Validator Client" source="x_alpa2_hs_client">41653bebdb0c6410b496c16c13961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AS Validator Client">41653bebdb0c6410b496c16c13961982</sys_scope>
+        <sys_update_name>sys_app_module_9eb5b32fdb0c6410b496c16c1396191c</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-10-30 18:13:05</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AS Code Client">41653bebdb0c6410b496c16c13961982</application>
+        <file_path/>
+        <instance_id>c2ae219d6f02de004c327b2f5d3ee4dc</instance_id>
+        <instance_name>alparbrdemo1</instance_name>
+        <name>sys_app_module_9eb5b32fdb0c6410b496c16c1396191c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="AS Validator Client">92b537ebdb0c6410b496c16c139619a1</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sys_user</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>victor.leite@alparservice.com.br</sys_created_by><sys_created_on>2020-10-30 18:13:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9eb5b32fdb0c6410b496c16c1396191c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="AS Validator Client" source="x_alpa2_hs_client">41653bebdb0c6410b496c16c13961982</sys_package><sys_policy/><sys_scope display_value="AS Validator Client">41653bebdb0c6410b496c16c13961982</sys_scope><sys_update_name>sys_app_module_9eb5b32fdb0c6410b496c16c1396191c</sys_update_name><sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by><sys_updated_on>2020-10-30 18:13:05</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>370903195</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>c5653bebdb0c6410b496c16c13961984</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-10-30 18:13:05</sys_created_on>
+        <sys_id>96b5b32fdb0c6410b496c16c1396191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1757ab68ebb0000001</sys_recorded_at>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-10-30 18:13:05</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9eb5b32ff40c64105e12616e79c7131d</update_guid>
+        <update_guid_history>9eb5b32ff40c64105e12616e79c7131d:370903195</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">9ae5772fdb0c6410b496c16c13961918</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-10-30 18:13:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>18f8983a96364d828887c72181bc69a4</sys_id>
+        <sys_metadata>9eb5b32fdb0c6410b496c16c1396191c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="AS Code Client" source="x_alpa2_hs_client">41653bebdb0c6410b496c16c13961982</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AS Code Client">41653bebdb0c6410b496c16c13961982</sys_scope>
+        <sys_scope_delete display_value="">9aaf473d071b479c91525d2e5509b490</sys_scope_delete>
+        <sys_update_name>sys_app_module_9eb5b32fdb0c6410b496c16c1396191c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9eb5b32fdb0c6410b496c16c1396191c">96b5b32fdb0c6410b496c16c1396191e</sys_update_version>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-10-30 18:13:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
